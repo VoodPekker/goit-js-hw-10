@@ -83,10 +83,12 @@ img + p {
 p {
   color: #006ea1;
   margin-top: 0rem;
-  margin-bottom: 0.625rem;
+  margin-bottom: 10px;
+  font-weight: 800;
 }
 p > span {
   color: #0c0c0c;
+  font-weight: 400;
 }
 
 ul {
